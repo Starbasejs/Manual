@@ -1,0 +1,2 @@
+# Manual
+Starbasejs Manual
